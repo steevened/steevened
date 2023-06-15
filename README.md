@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NesJS**
 
-- 👨‍💻 All of my projects are available at [steevened.me](steevened.me)
+- 👨‍💻 All of my projects are available at [steevened.me](https://steevened.me)
 
 - 💬 Ask me about **TypeScript, Reactjs, Nodejs**
 
