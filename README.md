@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SociAI](https://github.com/steevened/sociai)
 
-- 🌱 I’m currently learning **NesJS**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [steevened.me](https://steevened.me)
 
