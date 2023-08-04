@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [SociAI](https://github.com/steevened/sociai)
 
 - 🌱 I’m currently learning **NestJS**
 
