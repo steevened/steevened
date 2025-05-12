@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm Steven Alvarado</h1>
-<h3 align="center">A passionate web developer from Ecuador</h3>
-
-
-
-
-
-
-- 🌱 I’m currently learning **NestJS**
+<h1 align="center">Hi , I'm Steevened</h1>
 
 - 👨‍💻 All of my projects are available at [steevened.me](https://steevened.me)
 
-- 💬 Ask me about **TypeScript, Reactjs, Nodejs, Next.js**
+- 💬 Ask me about **Next.js, React.js, TypeScript**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
