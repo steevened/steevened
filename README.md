@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [stevenid.dev](https://stevenid.dev/)
 
-- 💬 Ask me about **Next.js, React.js, TypeScript**
+- 💬 Ask me about **Web development, Next.js, React.js, TypeScript, React Native, Prisma, Drizzle Orm, Nest.js, Node.js**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
