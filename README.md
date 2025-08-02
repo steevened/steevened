@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Steevened</h1>
 
-- 👨‍💻 All of my projects are available at [steevened.me](https://steevened.me)
+- 👨‍💻 All of my projects are available at [stevenid.dev](https://stevenid.dev/)
 
 - 💬 Ask me about **Next.js, React.js, TypeScript**
 
